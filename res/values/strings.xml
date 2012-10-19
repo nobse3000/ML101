@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ML101</string>
+    <string name="main_name">MakeLoveList</string>
+    <string name="mllist.upper">最上方</string>
+    <string name="mllist.down">最下方</string>
+    <string name="mllist.update">下载</string>
+    <string name="ml_name">式名</string>
+    <string name="ml_content">内容</string>
+    <string name="ml_diffcult">难度系数</string>
+</resources>
